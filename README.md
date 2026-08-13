@@ -73,10 +73,36 @@
 - [ ] Apps de escritorio con **Tauri + React**
 - [ ] Kubernetes para orquestación de servicios
 
-## 🌌 SYS.INFO · Estadísticas
+## 🗂️ REPOSITORIES · Proyectos Personales
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uskein&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uskein&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+### 📖 PLPDF — Biblioteca Imperial
+> Lector de libros con estética imperial. Gestiona tu biblioteca de **PDF/EPUB**, colecciones, anotaciones y cuadernos de notas.
+
+[![PLPDF](https://img.shields.io/badge/PLPDF-Biblioteca%20Imperial-8B5CF6?style=for-the-badge&logo=readme&logoColor=fff)](https://github.com/uskein/plpdf)
+![PDF](https://img.shields.io/badge/PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=fff&color=D93025)
+![EPUB](https://img.shields.io/badge/EPUB-blueviolet?style=flat-square&logo=readme&logoColor=fff)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=000)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=fff)
+
+- 🏛️ Vista de **colecciones** organizables por árbol
+- 📚 Lectura de **PDF** y **EPUB** integrados
+- 🗒️ **Anotaciones** y cuadernos con notas
+- 🎨 Temas visuales y dictado por voz
+
+### 🎬 PLMP4 — Video Library
+> Reproductor de video local con progreso automático, anotaciones en la línea de tiempo y cuadernos integrados.
+
+[![PLMP4](https://img.shields.io/badge/PLMP4-Video%20Library-F97316?style=for-the-badge&logo=youtube&logoColor=fff)](https://github.com/uskein/plmp4)
+![MP4](https://img.shields.io/badge/MP4-red?style=flat-square&logo=video&logoColor=fff&color=E62117)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=000)
+![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=flat-square&logo=zustand&logoColor=fff)
+
+- 🎞️ **Reproductor** con atajos de teclado y pantalla completa
+- ⏱️ **Progreso automático** — retoma donde lo dejaste
+- 📌 **Anotaciones** sobre la línea de tiempo con colores
+- 🗃️ **Carpetas/colecciones** con portadas personalizables
+- 📓 **Cuadernos** exportables a **PDF** y **Markdown**
 
 ```
 > status : ONLINE
