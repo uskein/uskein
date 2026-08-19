@@ -104,6 +104,20 @@
 - 🗃️ **Carpetas/colecciones** con portadas personalizables
 - 📓 **Cuadernos** exportables a **PDF** y **Markdown**
 
+### 📜 VOYNICH CODEX — World-Building Platform
+> Plataforma full-stack para la creación de mundos y gestión de manuscritos con arquitectura limpia y servicios de automatización.
+
+[![VOYNICH](https://img.shields.io/badge/VOYNICH%20CODEX-World%20Builder-6366F1?style=for-the-badge&logo=readme&logoColor=fff)](https://github.com/uskein/voynich-codex)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
+
+- 🌍 **World Building** — Bestiario, personajes, timeline, geografía, naciones y sistemas de magia
+- 📚 **Manuscript Management** — Biblioteca de manuscritos con capítulos y búsqueda semántica
+- 🎯 **Project Management** — Kanban board, sprints y milestones
+- 🎨 **Theme System** — Modos Day/Night/Sepia con Framer Motion
+
 ```
 > status : ONLINE
 > stack  : .NET · React · Tauri
